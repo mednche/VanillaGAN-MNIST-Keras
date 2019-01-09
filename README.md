@@ -8,8 +8,9 @@ Vanilla GANs are the simplest type of GAN and in this case the generator and the
 
 This is the algorithm for the very first GAN. It was taken from the [paper](https://arxiv.org/abs/1406.2661) written by Goodfellow et al. in 2014:
 
-![alt text](Vanilla_GAN_algo.png "Vanilla GAN algorithm")
-
+<p align="center">
+<img src="Vanilla_GAN_algo.png" alt="Vanilla GAN algorithm" width="400"/>
+</p>
 
 ## Data
 The dataset used for this project is the MNIST dataset composed of a 70,000 images of handwritten numbers.
