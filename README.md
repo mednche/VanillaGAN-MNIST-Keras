@@ -21,4 +21,8 @@ The dataset used for this project is the MNIST dataset composed of a 70,000 imag
 ## Results
 This is the progress on the Generator of my Vanilla GAN in only 100 epochs!
 
-![Alt Text](GAN_progress.gif)
+
+<p align="center">
+<img src="GAN_progress.gif" alt="Porgress GAN" width="400"/>
+</p>
+
