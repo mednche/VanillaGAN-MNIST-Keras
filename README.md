@@ -1,6 +1,6 @@
 # VanillaGAN-MNIST-Keras
 
-Standard GAN implemented on top of keras/tensorflow.
+Standard GAN implemented on top of keras/tensorflowGPU applied to the MNIST dataset.
 
 
 ## Vanilla GAN
