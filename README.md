@@ -14,7 +14,7 @@ This is the algorithm for the very first GAN. It was taken from the [paper](http
 ## Data
 The dataset used for this project is the MNIST dataset composed of a 70,000 images of handwritten numbers.
 
-<img src="mnist.png" alt="MNIST dataset" width="200"/>
+<img src="mnist.png" alt="MNIST dataset" width="400" align="middle"/>
 
 
 ## Results
