@@ -14,8 +14,9 @@ This is the algorithm for the very first GAN. It was taken from the [paper](http
 ## Data
 The dataset used for this project is the MNIST dataset composed of a 70,000 images of handwritten numbers.
 
-<img src="mnist.png" alt="MNIST dataset" width="400" align="middle"/>
-
+<p align="center">
+<img src="mnist.png" alt="MNIST dataset" width="400"/>
+</p>
 
 ## Results
 This is the progress on the Generator of my Vanilla GAN in only 100 epochs!
