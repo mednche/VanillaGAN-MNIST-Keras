@@ -1,7 +1,6 @@
 # VanillaGAN-MNIST-Keras
 
-Standard GAN implemented on top of keras/tensorflowGPU applied to the MNIST dataset.
-
+Standard GAN implemented on top of keras 2.0 (with tensorflowGPU back end) applied to the MNIST dataset.
 
 ## Vanilla GAN
 Vanilla GANs are the simplest type of GAN and in this case the generator and the discriminator are just simple multi-layer perceptrons. Vanilla GANs simply just seek to optimize the mathematical equation using stochastic gradient descent.
